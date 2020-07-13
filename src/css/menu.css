@@ -1,0 +1,8 @@
+.sub-menu{
+    list-style-type: none;
+}
+.sub-menu li{
+    color: white;
+    font-size: 12px;
+    margin-top: 15px;
+}

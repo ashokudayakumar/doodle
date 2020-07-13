@@ -1,0 +1,31 @@
+.popup{
+    display: flex;
+    position: fixed;
+    z-index: 1;
+  background-color: rgba(0,0,0, 0.5);
+  justify-content: center;
+  align-items: center;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+.popup-content{
+  background-color: white;
+  width: 500px;
+  text-align: center;
+}
+.popup-head{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.popup-formcontrol{
+    margin-bottom: 10px;
+}
+.popup-formcontrol input{
+    width: 250px;
+}
+.error{
+  color:red;
+}

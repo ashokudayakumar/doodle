@@ -1,0 +1,34 @@
+[
+    {
+      "_id": "5d713995b721c3bb38c1f5d0",
+      "name": "Devworks",
+      "email": "Devworks@gmail.com",
+      "company": "Devworks",
+      "phone": "1234567891",
+      "address": "Address1"
+    },
+    {
+      "_id": "5d713a66ec8f2b88b8f830b8",
+      "name": "ModernTech",
+      "email": "ModernTech@gmail.com",
+      "company": "ModernTech",
+      "phone": "1234567892",
+      "address": "Address2"
+    },
+    {
+      "_id": "5d725a037b292f5f8ceff787",
+      "name": "Codemasters",
+      "email": "Codemasters@gmail.com",
+      "company": "TCS",
+      "phone": "1234567893",
+      "address": "Address3"
+    },
+    {
+      "_id": "5d725a1b7b292f5f8ceff788",
+      "name": "Devcentral",
+      "email": "Devcentral@gmail.com",
+      "company": "CTS",
+      "phone": "1234567894",
+      "address": "Address4"
+    }
+  ]

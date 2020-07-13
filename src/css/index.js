@@ -1,0 +1,6 @@
+import 'bootstrap/dist/css/bootstrap.css'
+import './header.css'
+import './menu.css'
+import './main.css'
+import './contact.css'
+import './popup.css'

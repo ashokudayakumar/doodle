@@ -1,0 +1,14 @@
+.sidemenu{
+    position: fixed;
+    height: 100vh;
+    width: 50px;
+    background: linear-gradient(rgba(230, 110, 110, 0.981) ,rgba(230,110,171,0.9808298319327731), rgba(198,98,226,1));
+    display: flex;
+    justify-content: center;
+    top:0px;
+    left: 0px;
+}
+.body-content{
+    margin-left: 50px;
+    margin-top: 42px;
+}

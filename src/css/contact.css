@@ -1,0 +1,107 @@
+.contact{
+    margin: 50px;
+}
+.table .header{
+    border:2px solid gray;
+    padding: 10px;
+    background-color: #efefef;
+}
+.table .body{
+    padding: 10px;
+}
+.center{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.section{
+    background-color: #efefef;
+}
+.textcolor{
+    color:#7777778a
+}
+.logo{
+    display: inline-block;
+    border-radius: 50%;
+    background-color: yellow;
+    padding: 10px;
+    margin: 10px;
+}
+.contact-title{
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.contact-search{
+    display: flex;
+    margin-bottom: 10px;
+}
+.search input{
+    border: 0px solid;
+    margin-left: 10px;
+    outline-style: none;
+    width: 200px;
+    background-color: #efefef;
+}
+
+.search{
+    border: 2px solid #efefef;
+    border-radius: 10px;
+    width: 250px;
+    background-color: #efefef;
+    padding: 3px;
+}
+.l-btn{
+    background: linear-gradient(90deg,rgba(230, 110, 110, 0.981), rgba(230,110,171,0.9808298319327731), rgba(198,98,226,1) 80%);
+    margin-left: 5px;
+    color: white;
+    padding: 3px;
+    border-radius: 5px;
+    border: 0px solid;
+    outline-style: none;
+}
+.b-head{
+    display: flex;
+}
+.b-logo{
+    display: flex;
+    align-items: center;
+    border-radius: 50%;
+    background-color: green;
+    margin-right: 2px;
+    width: 50px;
+    height: 50px;
+    justify-content: center;
+    color: white;
+}
+
+.addedit{
+    display: flex;
+}
+.book-img{
+    margin-right: 15px;
+}
+.contact-head{
+    margin-right: 30px;
+}
+.body .row{
+    margin-bottom: 10px;
+}
+.viewicon{
+    margin-right: 10px;
+}
+.editicon{
+    margin-right: 10px;
+}
+.details{
+    padding: 15px;
+}
+.sub-content{
+    display: flex;
+    margin-top: 20px;
+    background-color: #efefef;
+    padding: 15px;
+}
+.notice{
+    margin-left: 15px;
+    margin-right: 15px;
+}
